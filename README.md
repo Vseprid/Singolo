@@ -1,3 +1,3 @@
 #Singolo
 #Demo <br>
-https://uladzislaukutarkin.github.io/singolo/
+https://vseprid.github.io/Singolo/
